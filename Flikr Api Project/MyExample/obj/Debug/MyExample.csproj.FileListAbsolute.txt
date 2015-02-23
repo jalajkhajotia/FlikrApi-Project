@@ -1,0 +1,107 @@
+E:\VisualStudio 2012\MyExample\MyExample\bin\MyExample.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\MyExample.pdb
+E:\VisualStudio 2012\MyExample\MyExample\bin\Antlr3.Runtime.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.AspNet.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.Core.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OAuth.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OpenId.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\EntityFramework.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\Microsoft.Web.Infrastructure.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\Newtonsoft.Json.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Net.Http.Formatting.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Helpers.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Http.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Http.WebHost.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Mvc.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Optimization.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Razor.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.WebPages.Deployment.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.WebPages.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.WebPages.Razor.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\WebGrease.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\WebMatrix.Data.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\WebMatrix.WebData.dll
+E:\VisualStudio 2012\MyExample\MyExample\bin\EntityFramework.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\Newtonsoft.Json.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Net.Http.Formatting.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Helpers.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Http.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Http.WebHost.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Mvc.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.Razor.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.WebPages.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.WebPages.Deployment.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\System.Web.WebPages.Razor.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\WebMatrix.Data.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\WebMatrix.WebData.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.AspNet.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.Core.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OAuth.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OpenId.xml
+E:\VisualStudio 2012\MyExample\MyExample\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.dll
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.pdb
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.csprojResolveAssemblyReference.cache
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.Migrations.initial.resources
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.csproj.GenerateResource.Cache
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.Migrations.MovieContext.resources
+E:\VisualStudio 2012\MyExample\MyExample\obj\Debug\MyExample.Migrations.addedImageType.resources
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\MyExample.dll.config
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\MyExample.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\MyExample.pdb
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\Antlr3.Runtime.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.Core.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\EntityFramework.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\Newtonsoft.Json.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Net.Http.Formatting.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Helpers.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Http.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Http.WebHost.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Mvc.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Optimization.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Razor.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.WebPages.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\WebGrease.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\WebMatrix.Data.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\WebMatrix.WebData.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\EntityFramework.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\Newtonsoft.Json.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Net.Http.Formatting.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Helpers.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Http.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Http.WebHost.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Mvc.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.Razor.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.WebPages.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\WebMatrix.Data.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\WebMatrix.WebData.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.Core.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.csprojResolveAssemblyReference.cache
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.Migrations.initial.resources
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.Migrations.MovieContext.resources
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.Migrations.addedImageType.resources
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.csproj.GenerateResource.Cache
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.dll
+C:\Users\Win Org\Downloads\Flikr Api Project\MyExample\obj\Debug\MyExample.pdb

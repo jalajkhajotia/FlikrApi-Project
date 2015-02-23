@@ -1,0 +1,12 @@
+E:\VisualStudio 2012\MyExample\test\bin\Debug\test.exe.config
+E:\VisualStudio 2012\MyExample\test\bin\Debug\test.exe
+E:\VisualStudio 2012\MyExample\test\bin\Debug\test.pdb
+E:\VisualStudio 2012\MyExample\test\obj\Debug\test.exe
+E:\VisualStudio 2012\MyExample\test\obj\Debug\test.pdb
+E:\VisualStudio 2012\MyExample\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Win Org\Downloads\Flikr Api Project\test\bin\Debug\test.exe.config
+C:\Users\Win Org\Downloads\Flikr Api Project\test\bin\Debug\test.exe
+C:\Users\Win Org\Downloads\Flikr Api Project\test\bin\Debug\test.pdb
+C:\Users\Win Org\Downloads\Flikr Api Project\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Win Org\Downloads\Flikr Api Project\test\obj\Debug\test.exe
+C:\Users\Win Org\Downloads\Flikr Api Project\test\obj\Debug\test.pdb

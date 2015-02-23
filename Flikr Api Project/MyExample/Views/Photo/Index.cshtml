@@ -1,0 +1,26 @@
+﻿@model List<MyExample.Controllers.FlickrImage>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+ 
+ 
+
+@using (Html.BeginForm("Index", "Photo", FormMethod.Get))
+{    
+         <p> Title: @Html.TextBox("keyword") <br />   
+         <input type="submit" value="Filter" /></p> 
+        } 
+
+@foreach (var item in Model) {
+   
+   <a href= @Html.DisplayFor(modelItem => item.ImagePage) > <img src= @Html.DisplayFor(modelItem =>item.Image320.AbsoluteUri) /> </a>
+       
+          
+            
+       
+   
+}

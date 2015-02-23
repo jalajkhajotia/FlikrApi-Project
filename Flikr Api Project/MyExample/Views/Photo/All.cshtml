@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MyExample.Controllers.Photo>
+
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*string baseFlickrUrl = string.Format(
+						"http://farm{0}.staticflickr.com/{1}/{2}_{3}", 
+						data.farm, data.server, data.id, data.secret);
+
+					img.Image320= new Uri(baseFlickrUrl + "_n.jpg");
+					img.Image1024= new Uri(baseFlickrUrl + "_b.jpg");
+					img.ImageOriginal = new Uri(baseFlickrUrl + ".jpg");*@
+<h2>All Photos</h2>
+@foreach (var item in Model)
+{
+    int count = 0;
+    count++;
+    Stream s;
+    if (item.image320 != null)
+    {
+        using (MemoryStream ms = new MemoryStream(item.image320))
+        {
+            using (System.Drawing.Image returnImage = System.Drawing.Image.FromStream(ms))
+            {
+                returnImage.Save("jalaj" + count + ".jpg");
+            }
+        }
+    }
+   
+   <a href= @(string.Format(
+					"http://farm{0}.staticflickr.com/{1}/{2}_{3}.jpg",	 item.farm,item.server, item.id, item.secret).ToString()) > <img src= @(string.Format(
+						"http://farm{0}.staticflickr.com/{1}/{2}_{3}_n.jpg",	 item.farm,item.server, item.id, item.secret).ToString()) /> </a>@*
+    
+   if(count%4==0){ <br />}
+    count++;*@
+       
+}   
